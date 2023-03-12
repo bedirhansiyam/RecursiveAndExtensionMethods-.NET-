@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\bin\Debug\net7.0\RecursiveAndExtensionMethods.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\bin\Debug\net7.0\RecursiveAndExtensionMethods.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\bin\Debug\net7.0\RecursiveAndExtensionMethods.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\bin\Debug\net7.0\RecursiveAndExtensionMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\bin\Debug\net7.0\RecursiveAndExtensionMethods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\refint\RecursiveAndExtensionMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\RecursiveAndExtensionMethods.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\RecursiveAndExtensionMethods\obj\Debug\net7.0\ref\RecursiveAndExtensionMethods.dll
